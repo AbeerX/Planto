@@ -2,7 +2,7 @@
 
 ![Cream Modern Corporate Download Our App Minimal Instagram Story](https://github.com/user-attachments/assets/e08a6e45-40f2-4629-9ec9-10e1ad75db6a)
 
-## About Planto 🌿
+## About Planto 
 **Planto** is a user-friendly app that helps plant lovers manage their plant care routines, ensuring their plants thrive by keeping track of watering schedules, sunlight needs, and other important details.
 
 ## Key Benefits 💡
